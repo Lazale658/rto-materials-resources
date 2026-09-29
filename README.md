@@ -1,4 +1,4 @@
-# rto-materials-resources
+# rto-materials
 A collection of resources, content structures, and solutions for Australian vocational education and training providers.
 # RTO Materials for 2026: What Training Organisations Need for Quality Delivery
 
